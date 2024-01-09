@@ -1,0 +1,963 @@
+﻿Accident Analysis and Prevention	Accid. Anal. Prev.	Accid Anal Prev
+Accounts of Chemical Research	Acc. Chem. Res.	Acc Chem Res
+ACM Computing Survey	ACM Comput. Surv.	ACM Comput Surv
+ACM Journal of Emerging Technologies in Computing Systems	J. Emerg. Technol. Comput. Syst.	J Emerg Technol Comput Syst
+ACM SIGARCH Computer Architecture News	ACM SIGARCH Comput. Archit.	ACM SIGARCH Comput Archit
+ACM Transactions on Information and Systems Security	ACM Trans. Inf. Syst. Secur.	ACM Trans Inf Syst Secur
+Acoustical Physics	Acoust. Phys.	Acoust Phys
+ACS Applied Materials and Interfaces	ACS Appl. Mater. Interfaces	ACS Appl Mater Interfaces
+ACS Photonics	ACS Photonics	ACS Photonics
+Acta Biomater	Acta biomaterialia
+Acta Biotheoretica	Acta Biotheor.
+Acta Chemica Scandinavica	Acta Chem. Scand.	Acta Chem Scand
+Acta Crystallographica	Acta Crystallogr.	Acta Crystallogr
+Acta Crystallographica, Section A: Crystal Physics, Diffraction, Theoretical and General Crystallography	Acta Crystallogr. Sec. A	Acta Crystallogr Sec A
+Acta Crystallographica, Section B: Structural Crystallography and Crystal Chemistry	Acta Crystallogr. Sec. B	Acta Crystallogr Sec B
+Acta Mathematica Academiae Scientiarum Hungaricae	Acta Math. Acad. Sci. Hung.	Acta Math Acad Sci Hung
+Acta Metallurgica	Acta Metall.	Acta Metall
+Acta Neurologica Scandinavica	Acta Neurol. Scand.
+Acta Oto-Laryngologica	Acta Oto-Laryngol.	Acta Oto-Laryngol
+Acta Physica Austriaca	Acta Phys. Austriaca	Acta Phys Austriaca
+Acta Physica Polonica	Acta Phys. Pol.	Acta Phys Pol
+Acta Physica	Acta Phys.	Acta Phys
+Acustica	Acustica	Acustica
+Addictive Behaviors	Addict. Behav.	Addict Behav
+Advanced Energy Materials	Adv. Energy Mater.	Adv Energy Mater
+Advanced Healthcare Materials	Adv. Healthc. Mater.	Adv Healthc Mater
+Advanced healthcare materials	Adv. Healthc. Mater.	Adv Healthc Mater
+Advanced Materials	Adv. Mater.	Adv Mater
+Advanced Optical Materials	Adv. Opt. Mater.	Adv Opt Mater
+Advanced Robotics	Adv. Robotics	Adv Robotics
+Advances in Applied Mechanics	Adv. Appl. Mech.	Adv Appl Mech
+Advances in Applied Microbiology	Adv. Appl. Microbiol.	Adv Appl Microbiol
+Advances in Atomic, Molecular, and Optical Physic	Adv. At. Mol. Opt. Phys.	Adv At Mol Opt Phys
+Advances in Bioengineering	Adv. Bioeng.	Adv Bioeng
+Advances in Chemical Physics	Adv. Chem. Phys.	Adv Chem Phys
+Advances in Computational Bioengineering	Adv. Comput. Bioeng.	Adv Comput Bioeng
+Advances in Engineering Education	Adv. Engr. Educ.	Adv Engr	Educ
+Advances in Experimental Medicine and Biology	Adv. Exp. Med. Biol.	Adv Exp Med Biol
+Advances in Magnetic Resonance	Adv. Magn. Resrm.	Adv Magn Resrm
+Advances in Optics and Photonics	Adv. Opt. Photonics	Adv Opt Photonics
+Advances in Physics	Adv. Phys.	Adv Phys
+Advances in Quantum Chemistry	Adv. Quantum Chem.	Adv Quantum Chem
+Advances in Space Research	Adv. Space Res.	Adv Space Res	
+AEU-International Journal of Electronics and Communications	Int. J. Electron. Commun.	Int J Electron Commun
+AIAA Journal	AIAA J.	AIAA J
+AIP Conference Proceedings	AIP Conf. Proc.	AIP Conf Proc
+Akusticheskii Zhurnal [Soviet Physics & Acoustics]	Akust. Zh. [Sov. Phys. Accust.]	Akust Zh [Sov Phys Accust]
+AIChE Journal	AIChE J.	AIChE J
+Alternatives to Laboratory Animals	Altern. Lab. Anim.	Altern Lab Anim
+American Journal of Physics	Am. J. Phys.	Am J Phys
+American Journal of Physiology-Heart and Ciculatory Physiology	Am. J. Physiol-Heart. C.
+American Journal of Physiology-Regul
+atory Integrative and Comparative Physiology	Am. J. Physiol-Reg. I.
+American Journal of Psychiatry	Am. J. Psychiatry	Am J Psychiatry
+American Journal of Public Health	Am. J. Public Health	Am J Public Health
+Analog Integrated Circuits and Signal Processing	Analog Integr. Circuits Signal Process.	Analog Integr Circuits Signal Process
+Analytical Chemistry	Anal. Chem.	Anal Chem
+Annalen der Physik (Leipzig)	Ann. Phys. (Leipzig)	Ann Phys (Leipzig)
+Annales de Chimie et de Physique	Ann. Chim. Phys.	Ann Chim Phys
+Annales de Geophysique	Ann. Geophys.	Ann Geophys
+Annales de l`Institut Henri Poincaré	Ann. Inst. Henri Poincaré	Ann Inst Henri Poincaré
+Annales de l‘Institut Henri Poincaré, Section A; Physique Theorique	Ann. Inst. Henri Poincaré, A	Ann Inst Henri Poincaré, A
+Annales de l'Institut Henri Poincaré, Section B: Calcul des Probabilites et Statistique	Ann. Inst. Henri Poincaré, B	Ann Inst Henri Poincaré, B
+Annales de Physique (Paris)	Ann. Phys. (Paris)	Ann Phys (Paris)
+Annals of Biomedical Engineering	Ann. Biomed. Eng.	Ann Biomed Eng
+Annals of Fluid Dynamics	Ann. Fluid Dyn.	Ann Fluid Dyn
+Annals of Mathematics	Ann. Math.	Ann Math
+Annals of Otology, Rhinology, & Laryngology	Ann. Otol. Rhinol. Laryngol.	Ann Otol Rhinol Laryngol
+Annals of Physics (New York)	Ann. Phys. (N.Y.)	Ann Phys (NY)
+Annals of Translational Medicine	Ann. Transl. Med.	Ann Transl Med
+Annual Review of Biomedical Engineering	Annu. Rev. Biomed. Eng.	Annu Rev Biomed Eng
+Annual Review of Biomedical Sciences	Annu. Rev. Biomed. Sci.	Annu Rev Biomed Sci
+Annual Review of Nuclear Science	Annu. Rev. Nucl. Sci.	Annu Rev Nucl Sci
+Applicationes Mathematicae	Appl. Math.	Appl Math
+Applied Artificial Intelligence	Appl. Artif. Intell.	Appl Artif Intell
+Applied Computational Electromagnetics Society Journal	Appl. Comput. Electromagn. Soc. J.	Appl Comput Electromagn Soc J
+Applied Ergonomics	Appl. Ergon.	Appl Ergon
+Applied Intelligence	Appl. Intell.	Appl Intell
+Applied Mechanics and Materials	Appl. Mech. Mater	Appl Mech Mater
+Applied Optics	Appl. Opt.	Appl Opt
+Applied Physics A Materials Science & Processing	Appl. Phys. A
+Applied Physics A	Appl. Phys. A
+Applied Physics B	Appl. Phys. B
+Applied Physics B: Lasers and Optics	Appl. Phys. B
+Applied Physics B-Lasers and Optics	Appl. Phys. B
+Applied Physics Letters	Appl. Phys. Lett.	Appl Phys Lett
+Applied Sciences	Appl. Sci.	Appl Sci
+Applied Sciences-Basel	Appl. Sci.-Basel	Appl Sci-Basel
+Applied Spectroscopy	Appl. Spectmsc.	Appl Spectmsc
+Applied Thermal Energy	Appl. Therm. Eng.	Appl Therm Eng
+Applied Thermal Engineering	Appl. Therm. Eng.
+Arkiv foer Fysik	Ark. Fys.	Ark Fys
+Artificial Intelligence Review	Artif. Intell. Rev.	Artif Intell Rev
+Artificial Organs	Artif. Organs	Artif Organs
+Astronomical Journal	Astron. J.	Astron J
+Astronomicheskii Zhurnal [Soviet Astronomy]	Astron. Zh. [Sov. Astron.]	Astron Zh [Sov Astron]
+Astronomische Nachrichten	Astron. Nachr.	Astron Nachr
+Astronomy and Astrophysics	Astron. Astrophys.	Astron Astrophys
+Astrophysical Journal	Astrophys. J.	Astrophys J
+Astrophysical Journal, Letters to the Editor	Astrophys. J. Lett.	Astrophys J Lett
+Astrophysical Journal, Supplement Series	Astrophys. J. Suppl. Ser.	Astrophys J Suppl Ser
+Astrophysical Letters	Astrophys. Lett.	Astrophys Lett
+Atmosfery i Okeana [Izvestiya, Academy of Sciences, USSR, Atmospheric and Oceanic Physics]	USSR, Atmos. Oceanic Phys.]	USSR, Atmos Oceanic Phys]
+Atomnaya Energiya [Soviet Journal of Atomic Energy]	At. Energ. [Sov. J. At. Energy]	At Energ [Sov J At Energy]
+Australian Journal of Physics	Aust. J. Phys.	Aust J Phys
+Behavioural Brain Research	Behav. Brain Res.
+Bell System Technical Journal	Bcl] Syst. Tech. J.	Bcl] Syst Tech J
+Berichte der Bunsengesellschaft fiir Physikalische Chemie	Ber. Bunsenges. Phys. Chem.	Ber Bunsenges Phys Chem
+Bioelectromagnetics	Bioelectromagnetics	Bioelectromagnetics
+Biological Psychiatry	Biol. Psychiat.
+Biological Psychology	Biol. Psychol.
+Biomaterials	Biomater.	Biomater
+BioMed Central Biology	BMC Biol.	BMC Biol
+BioMedical Engineering OnLine	Biomed. Eng. Online	Biomed Eng Online
+Biomedical Engineering	Biomed. Eng.	Biomed Eng
+Biomedical Instrumentation & Technology	Biomed. Instrum. Technol.	Biomed Instrum Technol
+Biomedical Letters	Biomed. Lett.	Biomed Lett
+Bio-Medical Materials and Engineering	Biomed. Mater. Eng.	Biomed Mater Eng
+Bio-Medical Materials and Engineering	Bio-Med. Mater. Eng.	Bio-Med Mater Eng
+Biomedical Microdevices	Biomed. Microdevices	Biomed Microdevices
+Biomedical Optics Express	Biomed. Opt. Express	Biomed Opt Express
+Biophysical Chemistry	Biophys. Chem.	Biophys Chem
+Biophysical Journal	Biophys. J.	Biophys J
+Biopolymers	Biopolymers	Biopolymers
+Bioscience Biotechnology and Biochemistry	Biosci. Biotechnol. Biochem.	Biosci Biotechnol Biochem
+Biosensors and Bioelectronics	Biosens. Bioelectron.	Biosens Bioelectron
+Biosystems Engineering	Biosys. Eng.	Biosys Eng
+Biotechnology Advances	Biotechnol. Adv.	Biotechnol Adv
+Biotechnology and Applied Biochemistry	Biotechnol. Appl. Biochem.	Biotechnol Appl Biochem
+Biotechnology and Bioengineering	Biotechnol. Bioeng.	Biotechnol Bioeng
+Biotechnology Annual Review	Biotechnol. Ann. Rev.	Biotechnol Ann Rev
+Biotechnology Letters	Biotechnol. Lett.	Biotechnol Lett
+Biotechnology Progress	Biotechnol. Prog.	Biotechnol Prog
+Biotechnology Techniques	Biotechnol. Tech.	Biotechnol Tech
+Blood Cells Molecules and Disease	Blood Cell. Mol. Dis.	Blood Cell Mol Dis
+Brain Research	Brain Res.
+Brain Stimulation	Brain Stimul.
+Breast Cancer Research and Treatment	Breast Cancer Res. Treat.	Breast Cancer Res Treat
+British Medical Journal	Br. Med. J.	Br Med J
+Business Horizons	Bus. Horizons	Bus Horizons
+British Journal of Applied Physics	Br. J. Appl. Phys.	Br J Appl Phys
+Bulletin of the Academy of Sciences of the USSR, Physical Series (translation of Izvestiya Akademii Nauk SSSR, Scriya Fizicheskaya)	Bull. Acad. Sci. USSR, Phys. Ser.	Bull Acad Sci USSR, Phys Ser
+Bulletin of the American Astronomical Society	Bull. Am. Astron. Soc.	Bull Am Astron Soc
+Bulletin of The American Physical Society	Bull. Am. Phys. Soc.	Bull Am Phys Soc
+Bulletin of the Astronomical Institutes of the Netherlands	Bull. Astron. Instit. Neth.	Bull Astron Instit Neth
+Bulletin of the Chemical Society of Japan	Bull. Chem. Soc. Jpn.	Bull Chem Soc Jpn
+Bulletin of the Seismological Society of America	Bull. Seismol. Soc. Am.	Bull Seismol Soc Am
+Canadian Journal of Chemistry	Can. J. Chem.	Can J Chem
+Canadian Journal of Physics	Can. J. Phys.	Can J Phys
+Canadian Journal of Remote Sensing	Can. J. Remote Sens.	Can J Remote Sens
+Canadian Journal of Research	Can. J. Res.	Can J Res
+Canadian Medical Association Journal	Can. Med. Assoc. J.	Can Med Assoc J
+Cellular Microbiology	Cell. Microbiol.	Cell Microbiol
+Chemical Communications	Chem. Commun.	Chem Commun
+Chemical & Engineering News	Chem. Eng. News	Chem Eng News
+Chemical Physics Letters	Chem. Phys. Lett.	Chem Phys Lett
+Chemical Physics	Chem. Phys.	Chem Phys
+Chemical Reviews	Chem. Rev.	Chem Rev
+Chemical Society Reviews	Chem. Soc. Rev.	Chem Soc Rev
+Chemistry of Materials	Chem. Mater.
+Chinese Optics Letters	Chin. Opt. Lett.
+Circulation-Arrhythmia and Electrophysiology	Circ.-Arrhythmia Elec.	Circ-Arrhythmia Elec
+Circulation Research	Circ. Res.	Circ Res
+Classical and Quantum Gravity	Class. Quantum Grav.	Class Quantum Grav
+Clinical Anatomy	Clin. Anat.	Clin Anat
+Cognition & Emotion	Cognition Emotion
+Cognitive Systems Research	Cogn. Syst. Res.	Cogn Syst Res
+Comments on Nuclear and Particle Physics	Comments Nucl. Part. Phys.	Comments Nucl Part Phys
+Communications in Mathematical Physics	Commun. Math. Phys.	Commun Math Phys
+Communications on Pure and Applied Mathematics	Commun. Pure Appl. Math.	Commun Pure Appl Math
+Comptes Rendus Hebdomadaires des Seances de l`Aeademie des Sciences	C. R. Acad. Sci.	C R Acad Sci
+Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences, Serie A: Sciences Mathematiques	C. R. Acad. Ser. A	C R Acad Ser A
+Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences, Serie B: Sciences Physiques	C. R. Acad. Ser. B	C R Acad Ser B
+Computer Animation and Virtual Worlds	Comput. Animat. Virtual Worlds	Comput Animat Virtual Worlds
+Computer Fraud & Security	Comput. Fraud Secur.	Comput Fraud Secur
+Computer Networks	Comput. Netw.	Comput Netw
+Computer Vision and Image Understanding	Comput. Vis. Image Und.	Comput Vis Image Und
+Computers & Education	Comput. Educ.	Comput Educ
+Computers & Graphics	Comput. Graph.	Comput Graph
+Computers in Biology and Medicine	Comput. Biol. Med.	Comput Biol Med
+Computers in Human Behavior	Comput. Hum. Behav.	Comput Hum Behav
+Computers in Physics	Comput. Phys.	Comput Phys
+Concurrency and Computation: Practice and Experience	Concurr. Comp-Pract. E.	Concurr Comp-Pract E
+Critical Care	Crit. Care
+Cryogenics	Cryogenics	Cryogenics
+CSEE Journal of Power and Energy Systems	CSEE J. Power Energy Syst.	CSEE J Power Energy Syst
+Current Opinion in Biotechnology	Current Opin. Biotech.	Current Opin Biotech
+Current Opinion in Structural Biology	Curr. Opin. Struct. Biol.	Curr Opin Struct Biol
+Current Sociology	Curr. Sociol.	Curr Sociol
+Cybernetics and Systems	Cybern. Syst.	Cybern Syst
+Cytometry Part A	Cytom. Part A	Cytom Part A
+Czechoslovak Journal of Physics	Czech. J. Phys.	Czech J Phys
+Discussions of the Faraday Society	Discuss. Faraday Soc.	Discuss Faraday Soc
+Doklady Akademii Nauk SSSR [Soviet Physics Doklady]	Dok. Akad. Nauk SSSR [Sov. Phys. Dokl.]	Dok Akad Nauk SSSR [Sov Phys Dokl]
+Earth and Planetary Science Letters	Earth Planet. Sci. Lett.	Earth Planet Sci Lett
+Electric Power System Research	Electr. Power Syst. Res.	Electr Power Syst Res
+Electrochimica Acta	Electrochim. Acta	Electrochim Acta
+Electrochemistry Communications	Electrochem. Commun.	Electrochem Commun
+Electronics & Communication Engineering Journal	Electronic. Commun. Eng. J.	Electronic Commun Eng J
+Electronics Letters	Electron. Lett.	Electron Lett
+Energy & Environmental Science	Energy Environ. Sci.	Energy Environ Sci
+Energy Policy	Energy Policy	Energy Policy
+Energy Storage Materials	Energy Storage Mater.	Energy Storage Mater
+Engineering Structures	Eng. Struct.	Eng Struct
+Epilepsia	Epilepsia	Epilepsia
+Epilepsy Research	Epilepsy Res.	Epilepsy Res.
+Ethical Theory and Moral Practice	Ethical Theory Moral Pract.	Ethical Theory Moral Pract
+European Journal of Transport and Infrastructure Research	European J. Transp. Infrastruct. Res.	European J Transp Infrastruct Res
+European Physical Journal- Applied Physics	Eur. Phys. J. - Appl. Phys.	Eur Phys J - Appl Phys
+European Spine Journal	Eur. Spine J.	Eur Spine J
+Experientia	Experientia	Experientia
+Expert Systems with Applications	Expert Syst. Appl.	Expert Syst Appl
+Federation of European Biochemical Societies Letters FEBS Lett.	FEBS Lett
+Fiber and Integrated Optics	Fiber Integr. Opt.	Fiber Integr Opt
+Fields and Quanta	Fields Quanta	Fields Quanta
+Finance Research Letters	Fin. Res. Lett.	Fin Res Lett
+Fizika (Zagreb)	Fizika (Zagreb)	Fizika (Zagreb)
+Fizika Elementarnykh Chastits i Atomnogo Yadra [Soviet Journal of Particles and Nuclei]	Fiz. Elem. Chastits At. Yadra [Sov. J. Part. Nucl.]	Fiz Elem Chastits At Yadra [Sov J Part Nucl]
+Fizika i Tekhnika Poluprovodnikov [Soviet Physics Semiconductors]	Fiz. Tekh. Poluprovodn. [Sov. Phys. Semicond.]	Fiz Tekh Poluprovodn [Sov Phys Semicond]
+Fizika Metallov i Metallovedenie [Physics of Metals and Metallography (USSR)]	Fiz. Met. Metalloved. [Phys. Met. Metallogr. (USSR) ]	Fiz Met Metalloved [Phys Met Metallogr (USSR) ]
+Fizika Nizkikh Temperatur [Soviet Journal of Low Temperature Physics]	Fiz. Nizk. Temp. [Sov. J. Low Temp. Phys.]	Fiz Nizk Temp [Sov J Low Temp Phys]
+Fizika Plazmy [Soviet Journal of Plasma Physics]	Fiz. Plazmy [Sov. J. Plasma Phys.]	Fiz Plazmy [Sov J Plasma Phys]
+Fizika Tverdogo Tela (Leningrad) [Soviet Physics-Solid State]	Fiz. Tverd. Tela (Leningrad) [Sov. Phys. Solid State]	Fiz Tverd Tela (Leningrad) [Sov Phys Solid State]
+Fortschritte der Physik	Fortschr. Phys.	Fortschr Phys
+Foundations of Physics	Found. Phys.	Found Phys
+Frontiers in Endochrinology	Front. Endocrinol.	Front Endocrinol
+Frontiers in Neuroscience	Front. Neurosci.	Front Neurosci
+Frontiers in Physiology	Front. Physiol.	Front Physiol
+Future Generation Computer Systems	Future Gener. Comput. Syst.	Future Gener Comput Syst
+Genetic Programming and Evolvable Machines	Genet. Program Evol. Mach.	Genetic Program Evol Mach
+General Relativity and Gravitation	Gen. Relativ. Gravit.	Gen Relativ Gravit
+Geochimica et Cosmochimica Acta	Geochim. Cosmochim. Acta	Geochim Cosmochim Acta
+Geomorphology	Geomorphology	Geomorphology
+Geophysical Journal International	Geophys. J. Int.	Geophys J Int
+Geophysical Research Letters	Geophys. Res. Lett.	Geophys Res Lett
+Global Spine Journal	Global Spine J.	Global Spine J
+Handbuch der Physik	Handb. Phys.	Handb Phys
+Healthcare Technology Letters	Healthc. Technol. Lett.	Healthc Technol Lett
+Helvetica Chimica Acta	Helv. Chim. Acta	Helv Chim Acta
+Helvetica Physica Acta	Helv. Phys. Acta	Helv Phys Acta
+High Temperature (USSR) (translation of Teplofizika Vysokikh Temperatur)	High Temp. (USSR)	High Temp (USSR)
+Human Factors	Hum. Factors 	Hum Factors
+IBM Journal of Research and Development	IBM J. Res. Dev.	IBM J Res Dev
+Icarus, International Journal of the Solar System	Icarus	Icarus
+IEE Proceedings: Optolectronics 	IEE Proc.: Optoelectron.
+IEE Proceedings: Science, Measurement & Technology 	IEE Proc.: Sci. Meas. Technol.
+IEEE Aerospace and Electronic Systems Magazine 	IEEE Aerosp. Electron. Syst. Mag.
+IEEE Annals of the History of Computing 	IEEE Ann. Hist. Comput.
+IEEE Antennas and Propagation Magazine 	IEEE Antennas Propag. Mag.
+IEEE Antennas and Wireless Propagation Letters 	IEEE Antennas Wirel. Propag. Lett.
+IEEE Biometrics Compendium	IEEE Biometrics Compend.
+IEEE Circuits and Devices Magazine 	IEEE Circuits Devices Mag.
+IEEE Circuits and Systems Magazine 	IEEE Circuits Syst. Mag.
+IEEE Communication Surveys and Tutorials	IEEE Commun. Surv. Tutorials	IEEE Commun Surv Tutorials
+IEEE Communications Letters 	IEEE Commun. Lett.
+IEEE Communications Magazine 	IEEE Commun. Mag.	IEEE Commun Mag
+IEEE Computational Intelligence Magazine 	IEEE Comput. Intell. Mag.
+IEEE Computer Architecture Letters 	IEEE Comput. Archit. Lett.
+IEEE Computer Graphics and Applications 	IEEE Comput. Graphics Appl.
+IEEE Control Systems Magazine 	IEEE Control Syst. Mag.
+IEEE Design and Test of Computers 	IEEE Des. Test Comput.
+IEEE Distributed Systems Online 	IEEE Distrib. Syst. Online
+IEEE Electrical Insulation Magazine 	IEEE Electr. Insul. Mag.
+IEEE Electron Device Letters 	IEEE Electron Device Lett.	IEEE Electron Device Lett
+IEEE Embedded Systems Letters	IEEE Embedded Sys. Lett.
+IEEE Engineering in Medicine and Biology Magazine 	IEEE Eng. Med. Biol. Mag.
+IEEE Engineering Management Review 	IEEE Eng. Manage. Rev.
+IEEE Geoscience and Remote Sensing Letters 	IEEE Geosci. Remote Sens. Lett.
+IEEE Industrial Electronics Magazine 	IEEE Ind. Electron. Mag.
+IEEE Industry Applications Magazine 	IEEE Ind. Appl. Mag.
+IEEE Instrumentation and Measurement Magazine 	IEEE Instrum. Meas. Mag.
+IEEE Intelligent Systems 	IEEE Intell. Syst.
+IEEE Intelligent Transportation Systems Magazine 	IEEE Intell. Transp. Syst. Mag.
+IEEE Internet Computing 	IEEE Internet Comput.
+IEEE Internet of Things Journal	IEEE Int. Things J.	IEEE Int Things J
+IEEE Journal on Emerging and Selected Topics in Circuits and Systems	IEEE J. Emerg. Sel. Topics Circuits Syst.	IEEE J Emerg Sel Topics Circuits Syst
+IEEE Journal of Emerging and Selected Topics in Power Electronics	IEEE J. Emerg. Sel. Top. Power Electron.	IEEE J Emerg Sel Top Power Electron
+IEEE Journal of Oceanic Engineering 	IEEE J. Oceanic Eng.
+IEEE Journal of Quantum Electronics	IEEE J. Quantum Electron.	IEEE J Quantum Electron
+IEEE Journal of Solid-State Circuits 	IEEE J. Solid-State Circuits	IEEE J Solid-State Circuits
+IEEE Journal on Selected Areas in Communications 	IEEE J. Sel. Areas Commun.	IEEE J Sel Areas Commun
+IEEE Journal of Selected Topics in Quantum Electronics 	IEEE J. Sel. Top. Quantum Electron.	IEEE J Sel Top Quantum Electron
+IEEE Journal of Selected Topics in Signal Processing 	IEEE J. Sel. Top. Sign. Proces.
+IEEE Journal on Selected Topics in Quantum Electronics 	IEEE J. Sel. Top. Quantum Electron.	IEEE J Sel Top Quantum Electron
+IEEE Journal on Selected Topics in Signal Processing 	IEEE J. Sel. Top. Sign. Proces.
+IEEE Latin America Transactions	IEEE Lat. Am. Trans.
+IEEE Magnetics Letters	IEEE Magn. Lett.
+IEEE Micro 	IEEE Micro
+IEEE Microwave and Wireless Components Letters 	IEEE Microwave Wireless Compon. Lett.
+IEEE Microwave Magazine 	IEEE Microwave Mag.
+IEEE Multimedia 	IEEE Multimedia
+IEEE Nanotechnology Magazine 	IEEE Nanatechnol. Mag.
+IEEE Network 	IEEE Network
+IEEE Personal Communications 	IEEE Pers. Commun.
+IEEE Pervasive Computing 	IEEE Pervasive Comput.
+IEEE Photonics Journal	IEEE Photonics J.
+IEEE Photonics Technology Letters 	IEEE Photonics Technol. Lett.
+IEEE Potentials 	IEEE Potentials
+IEEE Power and Energy Magazine 	IEEE Power Energ. Mag.
+IEEE Power Electronics Letters 	IEEE Power Electron. Lett.
+IEEE Reviews in Biomedical Engineering 	IEEE Rev. Biomed. Eng.
+IEEE Robotics and Automation Magazine 	IEEE Rob. Autom Mag.
+IEEE Security and Privacy 	IEEE Secur. Privacy
+IEEE Sensors Journal 	IEEE Sens. J.
+IEEE Sensors Journal 	IEEE Sensors J.
+IEEE Signal Processing Letters 	IEEE Signal Process Lett.
+IEEE Signal Processing Magazine 	IEEE Signal Process Mag.
+IEEE Software 	IEEE Softw.
+IEEE Solid-State Circuits Magazine	IEEE Solid-State Circuits Mag.
+IEEE Spectrum 	IEEE Spectr.
+IEEE Systems Journal 	IEEE Syst. J.
+IEEE Technology and Society Magazine 	IEEE Technol. Soc. Mag.
+IEEE Transactions on Acoustics, Speech, and Signal Processing 	IEEE Trans. Acoust. Speech Signal Process.
+IEEE Transactions on Advanced Packaging 	IEEE Trans. Adv. Packag.
+IEEE Transactions on Aerospace and Electronic Systems 	IEEE Trans. Aerosp. Electron. Syst.
+IEEE Transactions on Aerospace and Navigation Electronics 	IEEE Trans. Aerosp. Navig. Electron.
+IEEE Transactions on Affective Computing	IEEE Trans. Affective Comput.
+IEEE Transactions on Antennas and Propagation	IEEE Trans. Antennas Propag.	IEEE Trans Antennas Propag
+IEEE Transactions on Applications and Industry 	IEEE Trans. Appl. Indus.
+IEEE Transactions on Applied Superconductivity 	IEEE Trans. Appl. Supercond.
+IEEE Transactions on Audio 	IEEE Trans. Audio
+IEEE Transactions on Audio and Electroacoustics 	IEEE Trans. Audio Electroacoust.
+IEEE Transactions on Audio, Speech and Language Processing 	IEEE Trans. Audio Speech Lang. Process.
+IEEE Transactions on Automatic Control 	IEEE Trans. Autom. Control
+IEEE Transactions on Automation Science and Engineering 	IEEE Trans. Autom. Sci. Eng.
+IEEE Transactions on Autonomous Mental Development 	IEEE Trans. Auton. Ment. Dev.
+IEEE Transactions on Biomedical Circuits and Systems 	IEEE Trans. Biomed. Circuits Syst.
+IEEE Transactions on Bio-Medical Electronics 	IEEE Trans. Bio-med. Electron.
+IEEE Transactions on Biomedical Engineering 	IEEE Trans. Biomed. Eng.
+IEEE Transactions on Broadcast and Television Receivers 	IEEE Trans. Broadcast Telev. Receivers
+IEEE Transactions on Broadcasting 	IEEE Trans. Broadcast.
+IEEE Transactions on Circuits and Systems	IEEE Trans. Circuits Syst.
+IEEE Transactions on Circuits and Systems for Video Technology 	IEEE Trans. Circuits Syst. Video Technol.
+IEEE Transactions on Circuits and Systems I: Regular Papers 	IEEE Trans. Circuits Syst. Regul. Pap.
+IEEE Transactions on Circuits and Systems II: Express Briefs 	IEEE Trans. Circuits Syst. Express Briefs
+IEEE Transactions on Cognitive and Developmental Systems	IEEE Trans. Cogn. Devel. Syst.	IEEE Trans Cognit Devel Syst
+IEEE Transactions on Communications 	IEEE Trans. Commun.	IEEE Trans Commun
+IEEE Transactions on Components and Packaging Technologies 	IEEE Trans. Compon. Packag. Technol.
+IEEE Transactions on Components, Packaging and Manufacturing Technology	IEEE Trans. Compon. Packag. Manuf. Technol.	IEEE Trans Compon Packag Manuf Technol
+IEEE Transactions on Components, Packaging, and Manufacturing Technology	IEEE Trans. Compon. Packag. Manuf. Technol.	IEEE Trans Compon Packag Manuf Technol
+IEEE Transactions on Components, Packaging, and Manufacturing Technology, Part A: 	IEEE Trans. Compon. Packag. Manuf. Technol. Part A:
+IEEE Transactions on Components, Packaging, and Manufacturing Technology, Part B: 	IEEE Trans. Compon. Packag. Manuf. Technol. Part B:
+IEEE Transactions on Components, Packaging, and Manufacturing Technology, Part C: 	IEEE Trans. Compon. Packag. Manuf. Technol. Part C:
+IEEE Transactions on Computational Imaging	IEEE Trans. Comput. Imaging	IEEE Trans Comput Imaging
+IEEE Transactions on Computational Intelligence in AI and Games 	IEEE Trans. Comput. Intell. AI Games
+IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems 	IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.
+IEEE Transactions on Computers 	IEEE Trans. Comput.
+IEEE Transactions on Consumer Electronics 	IEEE Trans. Consum. Electron.
+IEEE Transactions on Control Systems Technology 	IEEE Trans. Control Syst. Technol.	IEEE Trans Control Syst Technol
+IEEE Transactions on Dependable and Secure Computing 	IEEE Trans. Dependable Secure Comput.	IEEE Trans Dependable Secure Comput
+IEEE Transactions on Device and Materials Reliability 	IEEE Trans. Device Mater. Reliab.	IEEE Trans Device Mater Reliab
+IEEE Transactions on Dielectrics and Electrical Insulation 	IEEE Trans. Dielectr. Electr. Insul.	IEEE Trans Dielectr Electr Insul
+IEEE Transactions on Education 	IEEE Trans. Educ.	IEEE Trans Educ
+IEEE Transactions on Electromagnetic Compatibility 	IEEE Trans. Electromagn. Compat.	IEEE Trans Electromagn Compat
+IEEE Transactions on Electron Devices	IEEE Trans. Electron Devices	IEEE Trans Electron Devices
+IEEE Transactions on Electronic Computers	IEEE Trans. Elec. Comp.	IEEE Trans Elec Comp
+IEEE Transactions on Electronics Packaging Manufacturing 	IEEE Trans. Electron. Packag. Manuf.	IEEE Trans Electron Packag Manuf
+IEEE Transactions on Energy Conversion 	IEEE Trans. Energy Convers.	IEEE Trans Energy Convers
+IEEE Transactions on Engineering Management 	IEEE Trans. Eng. Manage.	IEEE Trans Eng Manage
+IEEE Transactions on Evolutionary Computation 	IEEE Trans. Evol. Comput.	IEEE Trans Evol Comput
+IEEE Transactions on Fuzzy Systems 	IEEE Trans. Fuzzy Syst.	IEEE Trans Fuzzy Syst
+IEEE Transactions on Geoscience and Remote Sensing 	IEEE Trans. Geosci. Remote Sens.	IEEE Trans Geosci Remote Sens
+IEEE Transactions on Haptics 	IEEE Trans. Haptic.	IEEE Trans Haptic
+IEEE Transactions on Image Processing 	IEEE Trans. Image Process.
+IEEE Transactions on Industrial Electronics 	IEEE Trans. Ind. Electron.	IEEE Trans Ind Electron
+IEEE Transactions on Industrial Informatics 	IEEE Trans. Ind. Inf.	IEEE Trans Ind Inf
+IEEE Transactions on Industry Applications 	IEEE Trans. Ind. Appl.	IEEE Trans Ind Appl
+IEEE Transactions on Information Forensics and Security	IEEE Trans. Inf. Forensics Secur.	IEEE Trans Inf Forensics Secur
+IEEE Transactions on Information Technology in Biomedicine	IEEE Trans. Inf. Technol. Biomed.	IEEE Trans Inf Technol Biomed
+IEEE Transactions on Information Theory	IEEE Trans. Inf. Theory	IEEE Trans Inf Theory
+IEEE Transactions on Instrumentation and Measurement	IEEE Trans. Instrum. Meas.	IEEE Trans Instrum Meas
+IEEE Transactions on Intelligent Transportation Systems	IEEE Trans. Intell. Transp. Syst.	IEEE Trans Intell Transp Syst
+IEEE Transactions on Knowledge and Data Engineering 	IEEE Trans. Knowl. Data Eng.	IEEE Trans Knowl Data Eng
+IEEE Transactions on Learning Technologies 	IEEE Trans. Learn. Technol.	IEEE Trans Learn Technol
+IEEE Transactions on Magnetics	IEEE Trans. Magn.	IEEE Trans Magn
+IEEE Transactions on Medical Imaging 	IEEE Trans. Med. Imaging
+IEEE Transactions on Microwave Theory and Techniques	IEEE Trans. Microwave Theory Tech.	IEEE Trans Microwave Theory Tech
+IEEE Transactions on Mobile Computing 	IEEE Trans. Mob. Comput.	IEEE Trans Mob Comput
+IEEE Transactions on Multimedia 	IEEE Trans. Multimedia IEEE Trans Multimedia
+IEEE Transactions on Nanobioscience 	IEEE Trans. Nanobiosci.	IEEE Trans Nanobiosci
+IEEE Transactions on Nanotechnology 	IEEE Trans. Nanotechnol.	IEEE Trans Nanotechnol
+IEEE Transactions on Network and Service Management 	IEEE Trans. Netw. Serv. Manage.	IEEE Trans Netw Serv Manage
+IEEE Transactions on Neural Networks 	IEEE Trans. Neural Networks	IEEE Trans Neural Networks
+IEEE Transactions on Neural Networks and Learning Systems	IEEE Trans. Neur. Net. Lear. Syst.	IEEE Trans Neur Net Lear Syst
+IEEE Transactions on Neural Systems and Rehabilitation Engineering 	IEEE Trans. Neural Syst. Rehabil. Eng.	IEEE Trans Neural Syst Rehabil Eng
+IEEE Transactions on Nuclear Science	IEEE Trans. Nucl. Sci.	IEEE Trans Nucl Sci
+IEEE Transactions on Parallel and Distributed Systems 	IEEE Trans. Parallel Distrib. Syst.	IEEE Trans Parallel Distrib Syst
+IEEE Transactions on Pattern Analysis and Machine Intelligence 	IEEE Trans. Pattern Anal. Mach. Intell.	IEEE Trans Pattern Anal Mach Intell
+IEEE Transactions on Plasma Science 	IEEE Trans. Plasma Sci.	IEEE Trans Plasma Sci
+IEEE Transactions on Power Delivery 	IEEE Trans. Power Delivery	IEEE Trans Power Delivery
+IEEE Transactions on Power Electronics 	IEEE Trans. Power Electron.	IEEE Trans Power Electron
+IEEE Transactions on Power Systems 	IEEE Trans. Power Syst.	IEEE Trans Power Syst
+IEEE Transactions on Professional Communication 	IEEE Trans. Prof. Commun.	IEEE Trans Prof Commun
+IEEE Transactions on Reliability 	IEEE Trans. Reliab.	IEEE Trans Reliab
+IEEE Transactions on Robotics 	IEEE Trans. Rob.	IEEE Trans Rob
+IEEE Transactions on Semiconductor Manufacturing 	IEEE Trans. Semicond. Manuf.	IEEE Trans Semicond Manuf
+IEEE Transactions on Services Computing 	IEEE Trans. Serv. Comput.	IEEE Trans Serv Comput
+IEEE Transactions on Signal Processing 	IEEE Trans. Signal Process.	IEEE Trans Signal Process
+IEEE Transactions on Smart Grid	IEEE Trans. Smart Grid	IEEE Trans Smart Grid
+IEEE Transactions on Software Engineering 	IEEE Trans. Software Eng.
+IEEE Transactions on Sonics Ultrasonics Industrial and Engineering Chemistry	IEEE Trans. Sonics Ultrason. Ind. Eng. Chem.	IEEE Trans Sonics Ultrason Ind Eng Chem
+IEEE Transactions on Sustainable Energy	IEEE Trans. Sustainable Energy	IEEE Trans Sustainable Energy
+IEEE Transactions on Systems, Man, and Cybernetics Part A: Systems and Humans 	IEEE Trans. Syst. Man Cybern. Part A Syst. Humans	IEEE Trans Syst Man Cybern Part A Syst Humans
+IEEE Transactions on Systems, Man, and Cybernetics Part B: Cybernetics 	IEEE Trans. Syst. Man Cybern. Part B Cybern.	IEEE Trans Syst Man Cybern Part B Cybern
+IEEE Transactions on Systems, Man, and Cybernetics Part C: Applications and Reviews 	IEEE Trans. Syst. Man Cybern. Part C Appl. Rev.	IEEE Trans Syst Man Cybern Part C Appl Rev
+IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 	IEEE Trans. Ultrason. Ferroelectr. Freq. Control	IEEE Trans Ultrason Ferroelectr Freq Control
+IEEE Transactions on Vehicular Technology 	IEEE Trans. Veh. Technol.	IEEE Trans Veh Technol
+IEEE Transactions on Very Large Scale Integration (VLSI) Systems 	IEEE Trans. Very Large Scale Integr. VLSI Syst.	IEEE Trans Very Large Scale Integr VLSI Syst
+IEEE Transactions on Visualization and Computer Graphics 	IEEE Trans. Visual Comput. Graphics	IEEE Trans Visual Comput Graphics
+IEEE Transactions on Wireless Communications 	IEEE Trans. Wirel. Commun.	IEEE Trans Wirel Commun
+IEEE Vehicular Technology Magazine 	IEEE Veh. Technol. Mag.	IEEE Veh Technol Mag
+IEEE Wireless Communications 	IEEE Wirel. Commun.	IEEE Wirel Commun
+IEEE/ACM Transactions on Computational Biology and Bioinformatics 	IEEE/ACM Trans. Comput. Biol. Bioinf.	IEEE/ACM Trans Comput Biol Bioinf
+IEEE/ACM Transactions on Networking 	IEEE/ACM Trans. Networking	IEEE/ACM Trans Networking
+IEEE/ASME Transactions on Mechatronics 	IEEE/ASME Trans. Mechatron.	IEEE/ASME Trans Mechatron
+IEEE/OSA Journal of Display Technology 	IEEE/OSA J. Disp. Technol.	IEEE/OSA J Disp Technol
+IEEE/OSA Journal of Optical Communications and Networking	IEEE/OSA J. Opt. Commun. Networking	IEEE/OSA J Opt Commun Networking
+IEEJ Transactions on Industry Applications	IEEJ Trans. Ind. Appl.	IEEJ Trans Ind Appl
+IEICE Electronics Express	IEICE Electron. Express	IEICE Electron Express
+IEICE Transactions on Communications	IEICE Trans. Commun.	IEICE Trans Commun
+IEICE Transactions on Electronics	IEICE Trans. Electron.	IEICE Trans Electron
+IEICE Transactions on Fundamentals of Electronics, Communications and Computer Science	IEICE Trans. Fundam. Electron. Commun. Comput. Sci.	IEICE Trans Fundam Electron Commun Comput Sci
+IEICE Transactions on Information and Systems	IEICE Trans. Inf. Syst.	IEICE Trans Inf Syst
+IEMEK Journal of Embedded Systems and Applications	IEMEK J. Embed. Sys. Appl.	IEMEK J Embed Sys Appl
+IET Circuits, Devices and Systems 	IET Circuits Devices Syst.	IET Circuits Devices Syst
+IET Communications 	IET Commun.	IET Commun
+IET Communications Engineer 	IET Commun. Eng.	IET Commun Eng
+IET Computer Vision 	IET Comput. Vision	IET Comput Vision
+IET Computers and Digital Techniques 	IET Comput. Digital Tech.	IET Comput Digital Tech
+IET Control Theory and Applications 	IET Control Theory Appl.	IET Control Theory Appl
+IET Cyber-Physical Systems: Theory and Applications	IET Cyber-Phys. Syst.-Theory Appl.	IET Cyber-Phys Syst-Theory Appl
+IET Electric Power Applications 	IET Electr. Power Appl.	IET Electr Power Appl
+IET Electronics Systems and Software 	IET Electron. Syst. Softw.	IET Electron Syst Softw
+IET Engineering Management 	IET Eng. Manage.	IET Eng Manage
+IET Generation, Transmission and Distribution 	IET Gener. Transm. Distrib.	IET Gener Transm Distrib
+IET Image Processing 	IET Image Proc.	IET Image Proc
+IET Information Security 	IET Inf. Secur.	IET Inf Secur
+IET Intelligent Transport Systems 	IET Intel. Transport Syst.	IET Intel Transport Syst
+IET Microwaves, Antennas and Propagation 	IET Microwaves Antennas Propag.	IET Microwaves Antennas Propag
+IET Nanobiotechnology 	IET Nanobiotechnol.	IET Nanobiotechnol
+IET Optoelectronics 	IET Optoelectron.	IET Optoelectron
+IET Power Engineer 	IET Power Eng.	IET Power Eng
+IET Proceedings: Science, Measurement & Technology 	IET Proc.: Sci. Meas. Technol.	IET Proc: Sci Meas Technol
+IET Radar, Sonar and Navigation 	IET Radar Sonar Navig.	IET Radar Sonar Navig
+IET Renewable Power Generation 	IET Renew. Power Gener.	IET Renew Power Gener
+IET Science, Measurement and Technology 	IET Sci. Meas. Technol.	IET Sci Meas Technol
+IET Signal Processing 	IET Signal Proc.	IET Signal Proc
+IET Software 	IET Software	IET Software
+IET Synthetic Biology 	IET Synth. Biol.	IET Synth Biol
+IET Systems Biology 	IET Syst. Biol.	IET Syst Biol
+IIE Transactions 	IIE Trans.	IIE Trans
+IIE Transactions on Occupational Ergonomics And Human Factors	IIE Trans. Occup. Ergon. Hum. Factors	IIE Trans Occup Ergon Hum Factors
+IMA Journal of Applied Mathematics	IMA J. Appl. Math.	IMA J Appl Math
+IMA Journal of Management Mathematics	IMA J. Manage. Math.	IMA J Manage Math
+IMA Journal of Mathematical Control and Information	IMA J. Math. Control Inf.	IMA J Math Control Inf
+Image and Vision Computing 	Image Vision Comput.	Image Vision Comput
+Imaging Science Journal	Imaging Sci. J.	Imaging Sci J
+Industry Week	Ind. Week	Ind Week
+Infection and Immunity	Infect. Immun.	Infect Immun
+Information Sciences	Inf. Sci.	Inf Sci
+Information Security Technical Report	Inf. Secur. Tech. Rep.	Inf Secur Tech Rep
+Infrared Physics & Technology	Infrared Phys. Technol.	Infrared Phys Technol
+Infrared Physics	Infrared Phys.	Infrared Phys
+Inorganic Chemistry	lnorg. Chem.	lnorg Chem
+Inorganic Materials (USSR) (translation of Izvestiya Akademii Nauk SSSR, Neorganicheskie Materialy)	Inorg. Mater. (USSR)	Inorg Mater (USSR)
+Instruments and Experimental Techniques (USSR) (translation of Pribory i Tekhnika Eksperimenta)	Instrum. Exp. Tech. (USSR)	Instrum Exp Tech (USSR)
+International Journal of Advanced Manufacturing Technology	Int. J. Adv. Manuf. Tech.	Int J Adv Manuf Tech
+International Journal of Automotive Technology	Int. J. Automot. Technol.	Int J Automot Technol
+International Journal of Combinatorial Optimization Problems and Informatics	Int. J. Comb. Optim. Probl. Inform.	Int J Comb Optim Probl Inform
+International Journal of Critical Infrastructure Protection	Int. J. Crit. Infrastruct. Prot.	Int J Crit Infrastruct Prot
+International Journal of Electrical Engineering & Education	Int. J. Elect. Engr. Educ.	Int J Elect Engr Educ
+International Journal of Electrical Engineering Education	Int. J. Elect. Engr. Educ.	Int J Elect Engr Educ
+International Journal of Embedded Systems	Int. J. Embedded Sys.	Int J Embedded Sys
+International Journal of Energy Research	Int. J. Energy Res.	Int J Energy Res
+International Journal of Engineeering Education	Int. J. Engr. Educ.	Int J Engr Educ 
+International Journal of Magnetism	Int. J. Magn.	Int J Magn
+International Journal of Medical Microbiology	Int. J. Med. Microbiol.	Int J Med Microbiol
+International Journal of Microwave and Wireless Technologies	Int. J. Microw. Wirel. Technol.	Int J Microw Wirel Technol
+International Journal of Modern Physics C	Int. J. Mod. Phys. C	Int J Mod Phys C
+International Journal of Nonprofit and Voluntary Sector	Int. J. Nonprofit Volunt. Sect.	Int J Nonprofit Volunt Sect
+International Journal of Pediatric Otorhinolaryngology	Int. J. Pediatr. Otorhinolaryngol.	Int J Pediatr Otorhinolaryngol
+International Journal of Psychophysiology	Int. J. Psychophys.
+International Journal of Quantum Chemistry	Int. J. Quantum Chem.	Int J Quantum Chem
+International Journal of Quantum Chemistry, Part 2	Int. J. Quantum Chem. 2	Int J Quantum Chem 2
+International Journal of Quantum Chemistry, Part I	Int. J. Quantum Chem. 1	Int J Quantum Chem 1
+International Journal of Robotics Research	Int. J. Robot. Res.	Int J Robot Res
+International Journal of Service Industry Management	Int. J. Serv. Ind. Manag.	Int J Serv Ind Manag
+International Journal of Smart Home	Int. J Smart Home	Int J Smart Home
+International Journal of Social Robotics	Int. J. Soc. Robot.	Int J Soc Robot
+International Journal of Surgery	Int. J. Surg.	Int J Surg
+International Journal of Technology and Human Interaction	Int. J. Technol. Human Interact.	Int J Technol Human Interact
+International Journal of Theoretical Physics	Int. J. Theor. Phys.	Int J Theor Phys
+International Marketing Review	Intl. Mark. Review	Intl Mark Review
+ISA Transactions	ISA Trans.	ISA Trans
+Izvestiya Akademii Nauk SSSR, Fizika	Izv. Akad. Nauk SSSR, Fiz. Atmos. Okeana [Izv. Acad. Sci.	Izv Akad Nauk SSSR, Fiz Atmos Okeana [Izv Acad Sci
+Izvestiya Akademii Nauk SSSR, Seriya Fizicheskaya [Bulletin ofthe Academy of Sciences ofthe USSR, Physical Series]	lzv. Akad. Nauk SSSR, Ser. Fiz. [Bull. Acad. Sci. USSR, Phys. Ser.]	lzv Akad Nauk SSSR, Ser Fiz [Bull Acad Sci USSR, Phys Ser]
+IRE Ttransactions on Electronic Computers	IRE Trans. Elec. Comp.
+IRE Transactions on Information Theory	IRE Trans. Inf. Theor.	IRE Trans Inf Theor
+Izvestiya Vysshikh Uchebnykh Zavedenii, Fizika [Soviet Physics Journal]	lzv. Vyssh. Uchebn. Zaved. Fiz. [Sov. Phys. J.]	lzv Vyssh Uchebn Zaved Fiz [Sov Phys J]
+Izvestiya, Academy of Sciences, USSR, Atmospheric and Oceanic Physics (translation of Izvestiya Akademii Nauk SSSR, Fizika Atmosfery i Okeana)	Izv. Acad. Sci. USSR, Atmos. Oceanic Phys.	Izv Acad Sci USSR, Atmos Oceanic Phys
+Izvestiya, Academy of Sciences, USSR, Physics of the Solid Earth (translation of Izvestiya Akademii Nauk SSSR, Fizika Zemli)	Izv. Acad. Sci. USSR, Phys. Solid Earth	Izv Acad Sci USSR, Phys Solid Earth
+J. Biomed. Mat. Res. B-Appl. Biomat.
+J. Manuf. Sci. Eng.
+J.f Manuf. Sci. Eng.
+Japanese Journal of Applied Physics	Jpn. J. Appl. Phys.	Jpn J Appl Phys
+Japanese Journal of Physics	Jpn. J. Phys.	Jpn J Phys
+JETP Letters (translation of Pis’ma v Zkurnal Eksperimental‘noi i Teoreticheskoi Fiziki)	J ETP Lett.	J ETP Lett
+Jounral of Physics D: Applied Physics	J. Phys. D	J Phys D
+Journal de Chimie Physique	J. Chim. Phys.	J Chim Phys
+Journal de Physique (Paris)	J. Phys. (Paris)	J Phys (Paris)
+Journal de Physique et le Radium	J. Phys. Radium	J Phys Radium
+Journal of Advanced Research	J. Adv. Res.	J Adv Res
+Journal of Aerospace Information Systems	J. Aerosp. Inform. Syst.	J Aerosp Inform Syst
+Journal of Applied Biomedicine	J. Appl. Biomed.	J. Appl. Biomed.
+Journal of Applied Crystallography	J. Appl. Crystallogr.	J Appl Crystallogr
+Journal of Applied Physics	J. Appl. Phys.	J Appl Phys
+Journal of Applied Spectroscopy (USSR) (translation ol` Zhurnal Prikladnoi Spektroskopii)	J. Appl. Spectrosc. (USSR)	J Appl Spectrosc (USSR)
+Journal of Atmospheric and Solar-Terrestrial Physics	J. Atmos. Sol-Terr. Phys.	J Atmos Sol-Terr Phys
+Journal of Atmospheric and Terrestrial Physics	J. Atmos. Terr. Phys.	J Atmos Terr Phys
+Journal of Atmospheric Sciences	J. Atmos. Sci.	J Atmos Sci
+Journal of Autism and Developmental Disorders	J. Autism Dev. Disord.	J Autism Dev Disord
+Journal of Bacteriology	J. Bacteriol.	J Bacteriol
+Journal of Biomechanical Engineering	J. Biomech. Eng.	J Biomech Eng
+Journal of Biomedical Materials Research	J. Biomed. Mater. Res.	J Biomed Mater Res
+Journal of Biomedical Materials Research, Part A	J. Biomed. Mater. Res. A	J Biomed Mater Res A
+Journal of Biomedical Materials Research, Part B: Applied Biomaterials	J. Biomed. Mater. Res. B Appl. Biomater.	J Biomed Mater Res B Appl Biomater
+Journal of Biomedical Optics	J. Biomed. Opt.	J Biomed Opt
+Journal of Biomedical Science	J. Biomed. Sci.	J Biomed Sci
+Journal of Biomedicine and Biotechnology	J. Biomed. Biotechnol.	J Biomed Biotechnol
+Journal of Bioscience and Bioengineering	J. Biosci. Bioeng.	J Biosci Bioeng
+Journal of Biotechnology	J. Biotechnol.	J Biotechnol
+Journal of Chemical Physics	J. Chem. Phys.	J Chem Phys
+Journal of Cleaner Production	J. Clean. Prod.	J Clean Prod
+Journal of Clinical Investigation	J. Clin. Invest.
+Journal of Clinical Neurophysiology	J. Clin. Neurophysiol.
+Journal of Complexity	J. Complexity	J Complexity
+Journal of Computational Chemistry	J. Comput. Chem.	J Comput Chem
+Journal of Computational and Theoretical Nanoscience	J. Comput. Theor. Nanos.	J Comput Theor Nanos
+Journal of Computational Physics	J. Comput. Phys.	J Comput Phys
+Journal of Computer and System Sciences	J. Comput. Syst. Sci.	J Comput Syst Sci
+Journal of Computer Information Systems	J. Comput. Inform. Syst.	J Comput Inform Syst
+Journal of Consumer Affairs	J. Consum. Aff.	J Consum Aff
+Journal of Crystal Growth	J. Cryst. Growth	J Cryst Growth
+Journal of Electron Microscopy	J. Electron Micros.	J Electron Micros
+Journal of Embedded Systems	J. Embedded Sys.	J Embedded Sys
+Journal of Energy Chemistry	J. Energy Chem.	J Energy Chem
+Journal of Energy Storage	J. Energy Storage	J Energy Storage
+Journal of Engineering	J. Eng.	J Eng
+Journal of Engineering Technology	J. Eng. Technol.	J Eng Technol
+Journal of Field Robotics	J. Field Robot.	J Field Robot
+Journal of Fluid Mechanics	J. Fluid Mech.	J Fluid Mech
+Journal of Geophysical Research	J. Geophys. Res.	J Geophys Res
+Journal of Geophysical Research-Atmospheres	J. Geophys. Res-Atmos.	J Geophys Res-Atom 
+Journal of Geophysical Research-space Physics	J. Geophys. Res-Space Phys.	J Geophys Res-Space Phys
+Journal of Geophysical Research: Solid Earth	J. Geophys. Res.-Sol. Earth	J Geophys Res-Sol Earth
+Journal of Imaging Science and Technology	J. Imaging Sci. Technol	J Imaging Sci Technol
+Journal of Information and Organizational Sciences	J. Inf. Organ. Sci.	J Inf Organ Sci
+Journal of Information Security and Applications	J. Inf. Secur. Appl.	J Inf Secur Appl
+Journal of Inorganic and Nuclear Chemistry	J. lnorg. Nucl. Chem.	J lnorg Nucl Chem
+Journal of Instrumentation	J. Instrum.	J Instrum
+Journal of Insurance Regulation	J. Insur. Regul.	J Insur Regul
+Journal of Laboratory Physicians	J. Lab. Physicians	J Lab Physicians
+Journal of Laser Applications	J. Laser Appl.	J Laser Appl
+Journal of Laser Micro Nanoengineering	J. Laser Micro Nanoen.
+Journal of Lightwave Technology	J. Lightwave Technol.	J Lightwave Technol
+Journal of Low Temperature Physics	J. Low Temp. Phys.	J Low Temp Phys
+Journal of Luminescence	J. Lumin.	J Lumin
+Journal of Mechanical Design	J. Mech. Des.	J Mech Des
+Journal of Macromolecular Science, [Part B] Physics	J. Macromol. Sci. Phys.	J Macromol Sci Phys
+Journal of Manufacturing Science and Engineering	J. Manuf. Sci. Eng.	J Manuf Sci Eng
+Journal of Materials Chemistry	J Mater. Chem.
+Journal of Materials Research	J. Mater. Res.	J Mater Res
+Journal of Mathematical Physics (New York)	J. Math. Phys. (N.Y.)	J Math Phys (NY)
+Journal of Mathematics and Physics (Cambridge, Mass.)	J. Math. Phys. (Cambridge, Mass.)	J Math Phys (Cambridge, Mass)
+Journal of Medical Internet Research	J. Med. Internet Res.	J Med Internet Res
+Journal of Medical Systems	J. Med. Syst.	J Med Syst
+Journal of Micro/Nanolithography, MEMS, and MOEMS	J. Micro-Nanolith. MEM.	J Micro-Nanolith MEM
+Journal of Microelectromechanical Systems	J. Microelectromech. S.	J Microelectromech S
+Journal of Micromechanics and Microengineering	J. Micromech. Microeng.	J Micromech Microeng
+Journal of Micro-Nanolithography, MEMS, and MOEMS	J. Micro-Nanolith. MEM.	J Micro-Nanolith MEM
+Journal of Microscopy	J. Micros.	J Micros
+Journal of Modern Optics	J. Mod. Opt.	J Mod Opt
+Journal of Molecular Spectroscopy	I. Mol. Spectrosc.	I Mol Spectrosc
+Journal of Multiple-Valued Logic and Soft Computing	J. Mult.-Valued Log. S. Comput.	J Mult-Valued Log S Comput
+Journal of Nanomaterials	J. Nanomater.
+Journal of Nanoparticle Research	J. Nanopart. Res.	J Nanopart Res
+Journal of Nanophotonics	J. Nanophotonics	J Nanophotonics
+Journal of Neural Engineering	J. Neural Eng.	J Neural Eng
+Journal of Neurochemistry	J. Neurochem.
+Journal of Neuroscience	J. Neurosci.
+Journal of Neuroscience Methods	J. Neurosci. Meth.
+Journal of NeuroEngineering and Rehabilitation	J. Neuroeng. Rehabil.	J Neuroeng Rehabil
+Journal of Non-Crystalline Solids	J. Non·Cryst. Solids	J Non·Cryst Solids
+Journal of Nuclear Energy	J. Nucl. Energy	J Nucl Energy
+Journal of Nuclear Energy, Part C: Plasma Physics, Accelerators, Thermonuclear Research	J. Nucl. Energy, Part C	J Nucl Energy, Part C
+Journal of Nuclear Materials	J. Nucl. Mater.	J Nucl Mater
+Journal of Optical Technology	J. Opt. Technol.	J Opt Technol
+Journal of Optics A: Pure and Applied Optics	J. Opt.: Pure Appl. Opt.	J Opt: Pure Appl Opt
+Journal of Parallel and Distributed Computing	J. Parallel Distr. Comput.	J Parallel Distr Comput
+Journal of Physical and Chemical Reference Data	J. Phys. Chem. Ref. Data	J Phys Chem Ref Data
+Journal of Physical Chemistry	J. Phys. Chem.	J Phys Chem
+Journal of Physics A: Mathematical and Theoretical	J. Phys. A-Math. Theor.	J Phys A- Math Theor
+Journal of Physics (Moscow)	J. Phys. (Moscow)	J Phys (Moscow)
+Journal of Physics D- Applied Physics	J. Phys. D	J Phys D
+Journal of Physics: Conference Series	J. Phys. Conf. Ser.	J Phys Conf Ser
+Journal of Physics: Condensed Matter	J. Phys. Condens. Mat.	J Phys Condens Mat
+Journal of Physics-Condensed Matter	J. Phys. Condens. Mat.	J Phys Condens Mat
+Journal of Physics and Chemistry of Solids	J. Phys. Chem. Solids
+Journal of Plasma Physics	J. Plasma Phys.	J Plasma Phys
+Journal of Polymer Science	J. Polym. Sci.	J Polym Sci
+Journal of Polymer Science, Polymer Letters Edition	J. Polym. Sci., Polym. Lett. Ed.	J Polym Sci, Polym Lett Ed
+Journal of Polymer Science, Polymer Physics Edition	J. Polym. Sci., Polym. Phys. Ed.	J Polym Sci, Polym Phys Ed
+Journal of Power Sources	J. Power Sources	J Power Sources
+Journal of Quantitative Spectroscopy & Radiative Transfer	J. Quant. Spectros. Radiat. Transfer	J Quant Spectros Radiat Transfer
+Journal of Renewable and Sustainable Energy	J. Renew. Sustain. Energy
+Journal of Research of the National Bureau of Standards, Section A: Physics and Chemistry	J. Res. Natl. Bur. Stand. Sec. A	J Res Natl Bur Stand Sec A
+Journal of Research of the National Bureau of Standards, Section C: Engineering and Instrumentation	J. Res. Natl. Bur. Stand. Sec. C	J Res Natl Bur Stand Sec C
+Journal of Research ofthe National Bureau of Standards	J. Res. Natl. Bur. Stand.	J Res Natl Bur Stand
+Journal of Research ofthe National Bureau of Standards, Section B: Mathematical Sciences	J. Res. Natl. Bur. Stand. Sec. B	J Res Natl Bur Stand Sec B
+Journal of Rheology	J. Rheol.	J Rheol
+Journal of Robotics	J. Robotics	J Robotics
+Journal of Sound and Vibration	J. Sound Vib.	J Sound Vib
+Journal of Speech and Hearing Disorders	J. Speech Hear. Disord.	J Speech Hear Disord
+Journal of Speech and Hearing Research	J. Speech Hear. Res.	J Speech Hear Res
+Journal of Statistical Physics	J. Stat. Phys.	J Stat Phys
+Journal of Structural Biology	J. Struct. Biol.	J Struct Biol
+Journal of Structural Engineering	J. Struct. Eng.	J Struct Eng
+Journal of Systems Architecture	J. Sys. Arch.	J Sys Arch
+Journal Of the Academy Of Marketing Science	J. Acad. Mark. Sci.	J Acad Mark Sci
+Journal of the Acoustical Society of America	J. Acous. Soc. Am.	J Acous Soc Am
+Journal of the American Ceramic Society	J. Am. Ceram. Soc.	J Am Ceram Soc
+Journal of the American Chemical Society	J. Am. Chem. Soc.	J Am Chem Soc
+Journal of the American College of Cardiology	J. Am. Coll. Cardiol.	J Am Coll Cardiol
+Journal of the American Heart Association	J. Am. Heart Assoc.
+Journal of the American Institute of Electrical Engineers	J. Am. Inst. Electr. Eng.	J Am Inst Electr Eng
+Journal of the American Society for Mass Spectrometry	J. Am. Soc. Mass Spectr.	J Am Soc Mass Spectr
+Journal of the Audio Engineering Society	J. Audio Engin. Soc.	J Audio Engin Soc
+Journal of the Chemical Society	J. Chem. Soc.	J Chem Soc
+Journal of the Electrochemical Society	J. Electrochem. Soc.	J Electrochem Soc
+Journal of the European Optical Society	J. Euro. Opt. Soc.-	J Euro Opt Soc-
+Journal of the Korean Physical Society	J. Korean Phys. Soc	J Korean Phys Soc
+Journal of the Mechanics and Physics of Solids	J. Mech. Phys. Solids	J Mech Phys Solids
+Journal of the Optical Society of America A	J. Opt. Soc. Am. A	J Opt Soc Am A
+Journal of the Optical Society of America A: Optics	J. Opt. Soc. Am. A	J Opt Soc Am A
+Journal of the Optical Society of America A: Optics, Image Science, and Vision	J. Opt. Soc. Am. A	J Opt Soc Am A
+Journal of the Optical Society of America B	J. Opt. Soc. Am. B	J Opt Soc Am B
+Journal of the Optical Society of America B: Optical Physics	J. Opt. Soc. Am. B	J Opt Soc Am B
+Journal of the Optical Society of America B (Optical Physics)	J. Opt. Soc. Am. B	J Opt Soc Am B
+Journal of the Optical Society of America	J. Opt. Soc. Am.	J Opt Soc Am
+Journal of the Physical Society of Japan	J. Phys. Soc. Jpn.	J Phys Soc Jpn
+Journal of the Royal Microscopical Society	J. Roy. Micros. Soc.	J Roy Micros Soc
+Journal of the Society for Information Display	J. Soc. Inf. Display	J Soc Inf Disp
+Journal of Tissue Culture Methods	J. Tissue Cult. Methods	J Tissue Cult Methods
+Journal of Transport Geography	J. Transp. Geogr.	J Transp Geogr
+Journal of Vacuum Science & Technology A	J. Vac. Sci. Technol. A	J Vac Sci Technol A
+Journal of Vacuum Science & Technology B	J. Vac. Sci. Technol. B	J Vac Sci Technol B
+Journal of Vacuum Science & Technology	J. Vac. Sci. Techno].	J Vac Sci Techno]
+Journal of Vacuum Science and Technology A	J. Vac. Sci. Technol. A	J Vac Sci Technol A
+Journal of Vacuum Science and Technology B	J. Vac. Sci. Technol. B	J Vac Sci Technol B
+Journal of Vacuum Science and Technology B: Microelectronics and Nanometer Structures	J. Vac. Sci. Technol. B	J Vac Sci Technol B
+Journal of Spacecraft and Rockets	J. Spacecr. Rockets	J Spacecr Rockets
+Journal of Statistics and Management Systems	J. Stat. Manag. Syst.	J Stat Manag Syst
+Journal of Supercomputing	J. Supercomput.	J Supercomput
+Journal of Vacuum Science and Technology	J. Vac. Sci. Techno].	J Vac Sci Techno]
+Journal of Verbal Learning and Verbal Behavior	J. Verbal Learning Verbal. Behav.	J Verbal Learning Verbal Behav
+Journal of Visual Communication in Medicine	J. Vis. Commun. Med.	J Vis Commun Med
+Journal of Vocational Rehabilitation	J. Vocat. Rehab.	J Vocat Rehab
+Kolloid Zeitschrift & Zeitschrift fiir Polymere	Kolloid Z. Z. Polym.	Kolloid Z Z Polym
+Kongelige Danske Videnskabcrnes Selskab,	K. Dan. Vidensk. Selsk. Mat. Fys. Medd.	K Dan Vidensk Selsk Mat Fys Medd
+KSII Transactions on Internet and Information Systems	KSII Trans. Internet Inf. Syst.	KSII Trans Internet Inf Syst
+Kvantovaya Elektronika (Moscow) [Soviet Journal of Quantum Electronics]	Kvant. Elektron. (Moscow) [Sov. J. Quantum Electron.]	Kvant Elektron (Moscow) [Sov J Quantum Electron]
+Laryngoscope	Laryngoscope	Laryngoscope
+Laser Focus World	Laser Focus World	Laser Focus World
+Laser Physics	Laser Phys.
+Laser & Photonics Reviews	Laser & Photonics Rev.	Laser & Photonics Rev	
+Lettere al Nuovo Cimento	Lett. Nuovo Cimento	Lett Nuovo Cimento
+Leukos	Leukos	Leukos
+Lick Observatory Bulletins	Lick Obs. Bull.	Lick Obs Bull
+Inverse Problems	Inverse Probl.	Inverse Probl
+lzvestiya Akademii Nauk SSSR, Neorganicheskie Materialy [Inorganic Materials (USSR)]	lzv. Akad. Nauk SSSR, Neorg. Mater. [lnorg. Mater. (USSR)]	lzv Akad Nauk SSSR, Neorg Mater [lnorg Mater (USSR)]
+lzvestiya Akademu Nauk SSSR, Fizika Zemli [Izvestiya, Academy of Sciences, USSR, Physics ofthe Solid Earth]	lzv. Akad. Nauk SSSR, Fiz. Zemli [lzv. Acad. Sci. USSR, Phys. Solid Earth]	lzv Akad Nauk SSSR, Fiz Zemli [lzv Acad Sci USSR, Phys Solid Earth]
+lzvestiya Vysshikh Uchebnykh Zavedenni, Radiotizika [Soviet Radiophysics]	lzv. Vyssh. Uchebn. Zaved. Radiofiz. [Sov. Radiophys.]	lzv Vyssh Uchebn Zaved Radiofiz [Sov Radiophys]
+Machine Vision and Applications	Mach. Vision Appl.	Mach Vision Appl
+Management Information Systems Quarterly	Manag. Inf. Syst. Quart.	Manag Inf Syst Quart
+Matematsik-Fysiske Meddelelser Kristallografiya [Soviet Physics-Crystallography]	Kristallograhya [Sov. Phys. Crystallogr.]	Kristallograhya [Sov Phys Crystallogr]
+Materials Research Bulletin	Mater. Res. Bull.	Mater Res Bull
+Materials Today Energy	Mater. Today Energy	Mater Today Energy
+Mathematical Finance	Math. Financ.	Math Financ
+Mathematical Problems in Engineering	Math. Probl. Eng.	Math Probl Eng
+Measurement Science and Technology	Meas. Sci. Technol.	Meas Sci Technol
+Mechanical Systems and Signal Processing	Mech. Syst. Signal Pr.
+Medical Device Technology	Med. Device Technol.	Med Device Technol
+Medical Physics	Med. Phys.	Med Phys
+Memoirs of the Royal Astronomical Society	Mem. R. Astron. Soc.	Mem R Astron Soc
+Microbial Biotechnology	Microb. Biotechnol.	Microb Biotechnol
+Microelectronic Engineering	Micro. Engn.	Micro Engn
+Micron	Micron	Micron
+Microscopy Research and Technique	Micros. Res. Tech.	Micros Res Tech
+Microwave and Optical Technology Letters	Microw. Opt. Techn. Let.	Microw Opt Techn Let
+Microwave Theory and Techniques, IEEE Transactions on	IEEE Trans. Microwave Theory Tech.	IEEE Trans Microwave Theory Tech
+Minds and Machines	Mind. Mach.	Mind Mach
+Mobile Networks and Applications	Mob. Netw. Appl.	Mob Netw Appl
+Molecular Crystals and Liquid Crystals	Mol. Cryst. Liq. Cryst.	Mol Cryst Liq Cryst
+Molecular Physics	Mol. Phys.	Mol Phys
+Molecular Systems Design & Engineering	Mol. Syst. Des. Eng.	Mol Syst Des Eng
+Monthly Notices of the Royal Astronomical Society	Mon. Not. R. Astron. Soc.	Mon Not R Astron Soc
+Multimedia Tools and Applications	Multimed. Tools Appl.	Multimed Tools Appl
+Nano Communication Networks	Nano Commun. Netw.	Nano Commun Netw
+Nano Letters	Nano Lett.
+Nanophotonics	Nanophotonics	Nanophotonics
+Nanotechnology	Nanotechnol.	Nanotechnol
+National Bureau of Standards (U.S,), Miscellaneous Publication	Natl. Bur. Stand. (U.S.), Misc. Publ.	Natl Bur Stand (US), Misc Publ
+National Bureau of Standards (U.S. ), Circular	Natl. Bur. Stand. (U.S.), Circ.	Natl Bur Stand (US), Circ
+National Bureau of Standards (U.S.), Special Publication	Natl. Bur. Stand. (U.S.), Spec. Publ.	Natl Bur Stand (US), Spec Publ
+Natural Science	Nat. Sci.
+Nature	Nature	Nature
+Nature (London)	Nature (London)	Nature (London)
+Nature Biotechnology	Nat. Biotechnol.	Nat Biotechnol
+Nature Chemistry	Nat. Chem.	Nat Chem
+Nature Communications	Nat. Commun.	Nat Commun
+Nature Electronics	Nat. Electron.	Nat Electron
+Nature Materials	Nat. Mater.
+Nature Nanotechnology	Nat. Nanotechnol.	Nat Nanotechnol
+Nature Photonics	Nat. Photonics	Nat Photonics
+Naturwissenschaften	Naturwissenschaften	Naturwissenschaften
+Neural Computing & Applications	Neural Comput. Appl.	Neural Comput Appl
+Neuropsychopharmacology	Neuropsychopharmacol.
+Neurotherapeutics	Neurotherapeutics 	
+New Journal of Physics	New J. Phys.	New J Phys
+Nonlinearity	Nonlinearity	Nonlinearity
+Nonprofit and Volunteer Sector Quaterly	Nonprofit Volunt. Sect. Q.	Nonprofit Volunt Sect Q
+Nuclear Data, Section A	Nucl. Data, Sect. A	Nucl Data, Sect A
+Nuclear Fusion	Nucl. Fusion	Nucl Fusion
+Nuclear Instruments & Methods	Nucl. Instrum. Methods	Nucl Instrum Methods
+Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment	Nuc. Instrum. Meth. Phys. Res. A	Nuc. Instrum Meth Phys Res A
+Nuclear Instruments	Nucl. Instrum.	Nucl Instrum
+Nuclear Physics A	Nucl. Phys. A	Nucl Phys A
+Nuclear Physics B	Nucl. Phys. B	Nucl Phys B
+Nuclear Physics	Nucl. Phys.	Nucl Phys
+Nuclear Science and Engineering	Nucl. Sci. Eng.	Nucl Sci Eng
+Nukleonik	Nukleonik	Nukleonik
+Nuovo Cimento A	Nuovo Cimento A	Nuovo Cimento A
+Nuovo Cimento B	Nuovo Cimento B	Nuovo Cimento B
+Nuovo Cimento	Nuovo Cimento	Nuovo Cimento
+Optica Acta	Opt. Acta	Opt Acta
+Optica Applicata	Opt. Appl.	Opt Appl
+Optical and Quantum Electronics	Opt. Quantum Electron.	Opt Quantum Electron
+Optical Engineering	Opt. Engr.	Opt Engr
+Optical Fiber Technology	Opt. Fiber Technol.	Opt Fiber Technol
+Optical Materials	Opt. Mater.	Opt Mater
+Optical Review	Opt. Rev.	Opt Rev
+Optics & Laser Technology	Opt. Laser Technol.	Opt Laser Technol
+Optics and Lasers in Engineering	Opt. Laser Eng.	Opt Laser Eng
+Optics and Spectroscopy (USSR) (translation of Optika i Spektroskopiya)	Opt. Speetrosc. (USSR)	Opt Speetrosc (USSR)
+Optics Communications	Opt. Commun.	Opt Commun
+Optics Express	Opt. Express	Opt Express
+Optics Letters	Opt. Lett.	Opt Lett
+Optics News	Opt. News	Opt News
+Optik - International Journal for Light and Electron Optics	Optik	Optik
+Optik (Jena)	Optik	Optik
+Optik (Stuttgart)	Optik	Optik
+Optika i Spektroskopiya [Optics and Spectroscopy (USSR) ]	Opt. Spektrosk. [Opt. Spectrosc. (USSR)]	Opt Spektrosk [Opt Spectrosc (USSR)]
+Optiko-Mekhanicheskaya Promyshlennost [Soviet Journal of Optical Technology]	Opt. Mekh. Prom. [Sov. J. Opt. Technol.]	Opt Mekh Prom [Sov J Opt Technol]
+Organic & Biomolecular Chemistry	Org. Biomol. Chem.	Org Biomol Chem
+Organic Electronics Materials, Physics, Chemistry and Applications	Org. Electron. Mater. Phys. Chem. Appl.
+Pain	Pain
+Pattern Recognition Letters	Pattern Recogn. Lett.	Pattern Recogn Lett
+Perception and Psychophysics	Percept. Psychophys.	Percept Psychophys
+Pharmacopsychiatry	Pharmacopsychiatry	
+Philips Research Reports	Philips Res. Rep.	Philips Res Rep
+Philosophical Magazine	Philos. Mag.	Philos Mag
+Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences	Philos. Trans. R. Soc. A	Philos Trans R Soc A
+Philosophical Transactions of the Royal Society of London	Philos. Trans. R. Soc. London	Philos Trans R Soc London
+Philosophical Transactions of the Royal Society of London, Series A: Mathematical and Physical Sciences	Philos. Trans. R. Soc. London, Ser. A	Philos Trans R Soc London, Ser A
+Photogrammetric Engineering and Remote Sensing	Photogramm. Eng. Remote Sens.	Photogramm Eng Remote Sens
+Photonics Research	Photonics Res.	Photonics Res
+Photonics Spectra	Photonics Spectra	Photonics Spectra
+Photonics Technology Letters, IEEE	IEEE Photonics Technol. Lett.
+Physica (Utrecht)	Physica (Utrecht)	Physica (Utrecht)
+Physica E-Low-Dimensional Systems & Nanostructures	Physica E
+Physica Scripta	Phys. Scripta
+Physica Scripta	Phys. Scripta	Phys Scripta
+Physica Status Solidi A: Applied Research	Phys. Status Solidi A	Phys Status Solidi A
+Physica Status Solidi A-Applications and Materials Science	Phys. Status Solidi A	Phys Status Solidi A
+Physica Status Solidi B: Basic Research	Phys. Status Solidi B	Phys Status Solidi B
+Physica Status Solidi	Phys. Status Solidi	Phys Status Solidi
+Physical Review A	Phys. Rev. A	Phys Rev A
+Physical Review Applied	Phys. Rev. Appl.	Phys Rev Appl
+Physical Review B	Phys. Rev. B	Phys Rev B
+Physical Review B: Condensed Matter	Phys. Rev. B	Phys Rev B
+Physical Review C: Nuclear Physics	Phys. Rev. C	Phys Rev C
+Physical Review D: Particles and Fields	Phys. Rev. D	Phys Rev D
+Physical Review E: Statistical, Nonlinear, and Soft Matter Physics	Physical Rev. E Stat. Nonlin. Soft Matter Phys.	Physical Rev E Stat Nonlin Soft Matter Phys
+Physical Review Letters	Phys. Rev. Lett.	Phys Rev Lett
+Physical Review	Phys. Rev.	Phys Rev
+Physics (New York)	Phys. (N.Y.)	Phys (NY)
+Physics and Chemistry of Solids	Physics and Chemistry of Solids	Physics and Chemistry of Solids
+Physics in Medicine and Biology	Phys. Med. Biol.	Phys Med Biol
+Physics Letters A	Phys. Lett. A	Phys Lett A
+Physics Letters B	Phys. Lett. B	Phys Lett B
+Physics Letters	Phys. Lett.	Phys Lett
+Physics of Fluids A	Phys. Fluids A	Phys Fluids A
+Physics of Fluids B	Phys. Fluids B	Phys Fluids B
+Physics of Fluids	Phys. Fluids	Phys Fluids
+Physics of Metals and Metallography (USSR) (translation of Fizika Metallov i Metallovedenie)	Phys. of Metals and Metallography (USSR)	Phys of Metals and Metallography (USSR)
+Physics Teacher	Phys. Teach.	Phys Teach
+Physics of the Earth and Planetary Interiors	Phys. Earth Planet. Inter.	Phys Earth Planet Inter
+Physics Today	Phys. Today	Phys Today
+Physik der Kondensierten Materie	Phys. Konden. Mater.	Phys Konden Mater
+Physikalische Zeitschrift der Sowjetunion	Phys. Z. Sowjetunion	Phys Z Sowjetunion
+Physikalische Zeitschrift	Phys. Z.	Phys Z
+Physiological Research	Physiol. Res.
+Pis`ma v Zhurnal Eksperimental`noi i Teoreticheskoi Fiziki [JETP Letters]	Pis'ma Zh. Eksp. Teor. Fiz. [JETP Letters]	Pis'ma Zh Eksp Teor Fiz [JETP Letters]
+Pis‘ma v Astronomicheskii Zhurnal [Soviet Astronomy Letters]	Pis’ma Astron. Zh. [Sov. Astron. Lett.]	Pis’ma Astron Zh [Sov Astron Lett]
+Pis‘ma v Zhurnal Tekhnicheskoi Fiziki [Soviet Technical Physics Letters]	Pis`ma Zh. Tekh. Fiz. [Sov. Tech. Phys. Lett.]	Pis`ma Zh Tekh Fiz [Sov Tech Phys Lett]
+Planetary and Space Science	Planet. Space Sci.	Planet Space Sci
+Plasma Physics	Plasma Phys.	Plasma Phys
+PLOS One	PLOS One
+Polymers	Polymers	Polymers
+Polymers for Advanced Technologies	Polym. Advan. Technol.
+Pribory i Tekhnika Eksperimenta [Instruments and Experimental Techniques (USSR) ]	Prib. Tekh. Eksp. [Instrum. Exp. Tech. (USSR)]	Prib Tekh Eksp [Instrum Exp Tech (USSR)]
+Procedia - Social and Behavioral Sciences	Procedia Soc. Behav. Sci.	Procedia Soc Behav Sci
+Proceedings of the Cambridge Philosophical Society	Proc. Cambridge Philos. Soc.	Proc Cambridge Philos Soc
+Proceedings of the IEEE	Proc. IEEE	Proc IEEE
+Proceedings of the Institution of Mechanical Engineers Part C: Journal of Mechanical Engineering Science	Proc. Inst. Mech. Eng.-J. Mech. Eng. Sci.	Proc Inst Mech Eng -J Mech Eng Sci
+Proceedings of the IRE	Proc. IRE	Proc IRE
+Proceedings of the National Academy of Sciences 	Proc. Natl. Acad. Sci. U.S.A.	Proc Natl Acad Sci USA
+Proceedings of the National Academy of Sciences of the United States of America	Proc. Natl. Acad. Sci. U.S.A.	Proc Natl Acad Sci USA
+Proceedings of the National Academy of Sciences, India Section A: Physical Sciences	Proc. Natl. Acad. Sci. India A-Phys. Sci.	Proc Natl Acad Sci India A-Phys Sci
+Proceedings of the Physical Society, London, Section B	Proc. Phys. Soc. London, Sect. B	Proc Phys Soc London, Sect B
+Proceedings of the Royal Society of London Series A-Mathematical Physical and Engineering Sciences	Proc. R. Soc. London, Ser. A	Proc R Soc London, Ser A
+Proceedings of the Royal Society of London	Proc. R. Soc. London	Proc R Soc London
+Proceedings of the Royal Society of London, Series A; Mathematical and Physical Sciences	Proc. R. Soc. London, Ser. A	Proc R Soc London, Ser A
+Proceedings of the Physical Society, London	Proc. Phys. Soc. London	Proc Phys Soc London
+Proceedings of the Physical Society, London, Section A	Proc. Phys. Soc. London, Sect. A	Proc Phys Soc London, Sect A
+Proceedings of SPIE	Proc. SPIE	Proc SPIE
+Progress in Electromagnetics Research	Prog. Electromagn. Res.	Prog Electromagn Res
+Progress in Neuro-Psychopharmacology & Biological Psychiatry	Prog. Neuro-Psychoph.
+Progress of Theoretical Physics	Prog. Theor. Phys.	Prog Theor Phys
+Psychophysiology	Psychophysiology
+Publications ofthe Astronomical Society of the Pacific	Publ. Astron. Soc. Pac.	Publ Astron Soc Pac
+Radiation Effects	Radiat. EIT.	Radiat EIT
+Radio Engineering and Electronic Physics (USSR) (translation of Radiotekhnika i Elektronika)	Radio Eng. Electron. Phys. (USSR)	Radio Eng Electron Phys (USSR)
+Radio Engineering and Electronics (USSR) (translation of Radiotekhnika i Elektronika)	Radio Eng. Electron. (USSR)	Radio Eng Electron (USSR)
+Radio Science	Radio Sci.	Radio Sci
+Radiology	Radiology	Radiology
+Radiotekhnika i Elektronika [Radio Engineering and Electronic Physics (USSR)]	Radiotekh. Elektron. [Radio Eng. Electron. Phys. (USSR)]	Radiotekh Elektron [Radio Eng Electron Phys (USSR)]
+Radiotekhnika i Elektronika [Radio Engineering and Electronics (USSR)]	Radiotekh. Elektron. [Radio Eng. Electron. (USSR)]	Radiotekh Elektron [Radio Eng Electron (USSR)]
+RCA Review	RCA Rev.	RCA Rev
+Renewable & Sustainable Energy Reviews	Renew. Sust. Energ. Rev.	Renew Sust Energ Rev
+Reports on Progress in Physics	Rep. Prog. Phys.	Rep Prog Phys
+RSC Advances	RSC Adv.	RSC Adv
+Review of Scientific Instruments	Rev. Sci. Instrum.	Rev Sci Instrum
+Reviews of Geophysics	Rev. Geophys.	Rev Geophys
+Reviews of Modern Physics	Rev. Mod. Phys.	Rev Mod Phys
+Revue d’Optique, Theorique et Instrumentale	Rev. Opt. Theor. lnstrum.	Rev Opt Theor lnstrum
+Robotics and Autonomous Systems	Robot. Auton. Syst.	Robot Auton Syst
+Russian Journal of Physical Chemistry (translation of Zhurnal Fizicheskoi Khimii)	Russ. J. Phys. Chem.	Russ J Phys Chem
+Safety Science	Safety Sci.	Safety Sci
+Science	Science	Science
+Science Advances	Sci. Adv.	Sci Adv
+Science and Engineering Ethics	Sci. Eng. Ethics	Sci Eng Ethics
+Scientific American	Sci. Am.	Sci Am
+Scientific Reports	Sci. Rep.	Sci Rep
+Semiconductor Science and Technology	Semicond. Sci. Technol.	Semicond Sci Technol
+Sensors-Basel	Sensors	Sensors
+Sensors (Switzerland)	Sensors	Sensors
+Sensors and Actuators B (Chemical)	Sensor. Actuat. B-Chem.	Sensor Actuat B-Chem
+Sensors and Actuators, A: Physical	Sensor. Actuat. A-Phys.	Sensor Actuat A-Phys
+SMPTE Motion Imaging Journal	SMPTE Motion Imaging J.	SMPTE Motion Imaging J
+Society of Photographic Instrumentation Engineers Optical	SPIE Opto.	SPIE Opto
+Social Studies of Science	Soc. Stud. Sci.	Soc Stud Sci
+Software: Practice and Experience	Softw. Pract. Exper.	Softw Pract Exper
+Solar Energy Materials and Solar Cells	Sol. Energ. Mat. Sol. C.	Sol Energ Mat Sol C
+Solar Physics	Sol. Phys.	Sol Phys
+Solid State Communications	Solid State Commun.	Solid State Commun
+Solid State Physics	Solid State Phys.	Solid State Phys
+Solid State Technology	Solid State Technol.
+Solid-State Electronics	Solid·State Electron.	Solid·State Electron
+Soviet Astronomy (translation of Astronomicheskii Zhurnal)	Sov. Astron.	Sov Astron
+Soviet Astronomy Letters (translation of Pis’ma v Astronomicheskii Zhurnal)	Sov. Astron. Lett.	Sov Astron Lett
+Soviet Journal of Atomic Energy (translation of Atomnaya Energiya)	Sov. J. AL En.	Sov J AL En
+Soviet Journal of Low Temperature Physics (translation of Fizika Nizkikh Temperatur)	Sov. J. Low Temp. Phys.	Sov J Low Temp Phys
+Soviet Journal of Nuclear Physics (translation of Yadernaya Fizika)	Sov. J. Nucl. Phys.	Sov J Nucl Phys
+Soviet Journal of Optical Technology (translation of Optiko-Mekhanischeskaya Promyshlennost)	Sov. J. Opt. Technol.	Sov J Opt Technol
+Soviet Journal of Particles and Nuclei (translation of Fizika Elementarnykh Chastits i Atomnogo Yadra)	Sov. J. Part. Nucl.	Sov J Part Nucl
+Soviet Journal of Plasma Physics (translation of Fizika Plazmy)	Sov. J. Plasma Phys.	Sov J Plasma Phys
+Soviet Journal of Quantum Electronics [translation of Kvantovaya Elektronika (Moscow)]	Sov. J. Quantum Electron.	Sov J Quantum Electron
+Soviet Physics Journal (translation of Izvestiya Vysshikh Uchebnykh Zavedenii, Fizika)	Sov. Phys. J.	Sov Phys J
+Soviet Physics·Acoustics (translation of Akusticheskii Zhurnal)	Sov. Phys. Acoust.	Sov Phys Acoust
+Soviet Physics-Crystallography (translation of Kristallografiya)	Sov. Phys. Crystallogr.	Sov Phys Crystallogr
+Soviet Physics-Doklady (translation of Doklady Akademii Nauk SSSR)	Sov. Phys. Dokl.	Sov Phys Dokl
+Soviet Physics-JETP (translation of Zhurnal Eksperimental`noi i Teoretischeskoi Fiziki)	Sov. Phys. JETP	Sov Phys JETP
+Soviet Physics-Semiconductors (translation of Fizika i Tekhnika Poluprovodnikov)	Sov. Phys. Semicond.	Sov Phys Semicond
+Soviet Physics—Solid State [translation of Fizika Tverdogo Tela (Leningrad)]	Sov. Phys. Solid State	Sov Phys Solid State
+Soviet Physics-Technical Physics (translation of Zhurnal Tekhnicheskoi Fiziki)	Sov. Phys. Tech. Phys.	Sov Phys Tech Phys
+Soviet Physics-Uspekhi (translation of Uspekhi Fizicheskikh Nauk)	Sov. Phys. Usp.	Sov Phys Usp
+Soviet Radiophysics (translation of Izvestiya Vysshikh Uchebnykh Zavedenii, Radiofizika)	Sov. Radiophys.	Sov Radiophys
+Soviet Technical Physics Letters (translation of Pis’ma v Zhurnal Tekhnicheskoi Fiziki)	Sov. Tech. Phys. Lett.	Sov Tech Phys Lett
+Spectrochimica Acta	Spectrochim. Acta	Spectrochim Acta
+Spectrochimica Acta, Part A: Molecular Spectroscopy	Spectrochim. Acta, Part A	Spectrochim Acta, Part A
+Spectrochimica Acta, Part B: Atomic Spectroscopy	Spectrochim. Acta, Part B	Spectrochim Acta, Part B
+Statistics and Computing	Stat. Comput.	Stat Comput
+Structural Control and Health Monitoring	Struct. Control Health Monit.	Struct Control Health Monit
+Superconductor Science and Technology	Supercon. Sci. Technol.	Supercon Sci Technol
+Superlattices and Microstructures	Superlattice. Microst.	Superlattice Microst
+Surface Science	Surf Sci.	Surf Sci
+Surgical Endoscopy and Other Interventional Techniques	Surg. Endosc.	Surg Endosc
+Surgical Innovation	Surg. Innov.	Surg Innov
+Symposia of the Society for Experimental Biology	Symp. Soc. Exper. Biol.	Symp Soc Exper Biol
+Tectonics	Tectonics	Tectonics
+Teplotizika Vysokikh Temperatur [High Temperature (USSR)]	Teplofiz. Vys. Temp. [High Temp.(USSR)]	Teplofiz Vys Temp [High Temp(USSR)]
+Tetrahedron	Tetrahcdron	Tetrahcdron
+The American Journal of Psychiatry	Am. J. Psychiatry	Am J Psychiatry
+The International Journal of Advanced Manufacturing Technology	Int. J. Adv. Manuf. Tech.	Int J Adv Manuf Tech
+The International Journal of Biochemistry & Cell Biology	Int. J. Biochem. Cell Biol.	Int J Biochem Cell Biol
+The New England Journal of Medicine	N. Engl. J. Med.	N Engl J Med
+Theoretica Chimica Acta	Theor. Chim. Acta	Theor Chim Acta
+Thin Solid Films	Thin Solid Films	Thin Solid Films
+Tissue & Cell	Tissue Cell	Tissue Cell
+Tissue Antigens	Tissue Antigens	Tissue Antigens
+Tissue Engineering	Tissue Eng.	Tissue Eng
+Transactions of the American Geophysical Union	Trans. Am. Geophys. Union	Trans Am Geophys Union
+Transactions of the British Ceramic Society	Trans. Br. Ceramic Society	Trans Br Ceramic Society
+Transactions of the Faraday Society	Trans. Faraday Society	Trans Faraday Society
+Transactions of the Society of Rheology	Trans. Soc. Rheol.	Trans Soc Rheol
+Transactions of the American Crystallographic Society	Trans. Am. Cryst. Soc.	Trans Am Cryst Soc
+Transactions of the American Institute of Mining, Metallurgical and Petroleum Engineers	Trans. Am. Inst. Min. Metall. Pet. Eng.	Trans Am Inst Min Metall Pet Eng
+Transactions of the American Nuclear Society	Trans. Am. Nucl. Soc.	Trans Am Nucl Soc
+Transactions of the American Society for Metals	Trans. Am. Soc. Met.	Trans Am Soc Met
+Transactions of the American Society of Mechanical Engineers	Trans. Am. Soc. Mech. Eng.	Trans Am Soc Mech Eng
+Transactions ofthe Metallurgical Society of AIME	Trans. Metall. Soc. AIME	Trans Metall Soc AIME
+Transportation Research Part D: Transport And Environment	Transp. Res. D-Transp. Environ.	Transp Res D-Transp Environ
+Trends in Amplification	Trends Amplif.	Trends Amplif
+Trends in Cardiovascular Medicine	Trends Cardiovas. Med.	Trends Cardiovas Med
+Trends in Neurosciences	Trends Neurosci.	Trends Neurosci
+Ukrainian Fizicheskii Zhurnal (Russian Edition) [Ukrainian Physics Journal]	Ukr. Fiz. Zh. (Russ. Ed.) [Ukr. Phys. J.]	Ukr Fiz Zh (Russ Ed) [Ukr Phys J]
+Ukrainian Physics Journal [translation of Ukrainskii Fizicheskii Zhurnal (Russian Edition)]	Ukr. Phys. J.	Ukr Phys J
+Ultrasonics	Ultrasonics	Ultrasonics
+Uspekhi Fizicheskikh Nauk [Soviet Physics-Uspekhi]	Usp. Fiz. Nauk [Sov. Phys. Usp.]	Usp Fiz Nauk [Sov Phys Usp]
+Wireless Communications & Mobile Computing	Wirel. Commun. Mob. Comput.	Wirel Commun Mob Comput
+Wireless Networks	Wirel. Netw.	Wirel Netw
+World Neurosurgery	World Neurosurg.	World Neurosurg
+World Review Of Intermodal Transportation Research	World Rev. Intermodal Transp. Res.	World Rev Intermodal Transp Res
+Wuli Xuebao (Acta Physica Sinica) [Chinese Journal of Physics]	Wuli Xuebao (Acta Phys. Sin.) [Chin. J. Phys.]	Wuli Xuebao (Acta Phys Sin) [Chin J Phys]
+Yadernaya Fizika [Soviet Journal of Nuclear Physics]	Yad. Fiz. [Sov. J. Nucl. Phys.]	Yad Fiz [Sov J Nucl Phys]
+Zeitschrift fiir Anorganische und Allgemeine Chemie	Z. Anorg. Allg. Chem.	Z Anorg Allg Chem
+Zeitschrift fiir Astrophysik	Z. Astrophys.	Z Astrophys
+Zeitschrift fiir Elektrochemie	Z. Elektrochem.	Z Elektrochem
+Zeitschrift fiir Physikalische Chemie (Frankfurt am Main)	Z. Phys. Chem. (Frankfurt am Main)	Z Phys Chem (Frankfurt am Main)
+Zeitschrift fur Analytische Chemie	Z. Anal. Chem.	Z Anal Chem
+Zeitschrift fur Angewandte Physik	Z. Angew. Phys.	Z Angew Phys
+Zeitschrift fur Kristallographie, Kristallgeometrie, Krystallphysik, Kristallchemie	Z. Kristallogr. Kristallgeom. Krystallphys. Kristallchem	Z Kristallogr Kristallgeom Krystallphys Kristallchem
+Zeitschrift fur Metallkunde	Z. Metallk.	Z Metallk
+Zeitschrift fur Naturforschung	Z. Naturforsch.	Z Naturforsch
+Zeitschrift fur Naturforschung, Teil A Physik, Physikalische Chemie, Kosmophysik	Z. Naturforsch. Tcil A	Z Naturforsch Tcil A
+Zeitschrift fur Physik	Z. Phys.	Z Phys
+Zeitschrift fur Physikalische Chemie (Leipzig)	Z. Phys. Chem. (Leipzig)	Z Phys Chem (Leipzig)
+Zhongguo Jiguang/Chinese Journal of Lasers	Zhongguo Jiguang/Chin. J. Lasers	Zhongguo Jiguang/Chin J Lasers
+Zhurnal Eksperimentafnoi i Teoreticheskoi Fiziki [Soviet Physics—JETP]	Zh. Eksp. Teor. Fiz. [Sov. Phys. JETP]	Zh Eksp Teor Fiz [Sov Phys JETP]
+Zhurnal Fizicheskoi Khimii [Russian Journal of Physical Chemistry]	Zh. Fiz. Khim. [Russ. J. Phys. Chem.]	Zh Fiz Khim [Russ J Phys Chem]
+Zhurnal Prikladnoi Spektroskopii [Journal ofApplied Spectroscopy (USSR)]	Zh. Prikl. Spektrosk. [J. Appl. Spectrosc. (USSR)]	Zh Prikl Spektrosk [J Appl Spectrosc (USSR)]
+Zhurnal Tekhnicheskoi Fiziki [Soviet Physics-Technical Physics]	Zh. Tekh. Fiz. [Sov. Phys. Tech. Phys.]	Zh Tekh Fiz [Sov Phys Tech Phys]
